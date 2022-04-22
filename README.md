@@ -96,3 +96,4 @@ config.vm.network :forwarded_port, guest: 5001, host: 5001
 if you need to expose other ports, same line but you will need to replace the “guest port” (inside your vagrant) and your “host port” (outside your vagrant, used from your browser for example)
 
 It’s important in your project, to use the AirBnB API with the port 5001
+![hbnb_step5](https://user-images.githubusercontent.com/88311316/164710160-ffca5e55-59ff-4bf3-adbf-26cf4824fa8c.png)
